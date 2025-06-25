@@ -1,0 +1,1 @@
+PORTA:NOME_APLICAÇÃO:'cd /path/to/project && action to start':'echo "APP está rodando na porta PORTA"'
